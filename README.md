@@ -6,7 +6,7 @@
 3. **service.ts**: Implements service logic to fetch balances and process transactions.
 
 ## Running Instructions
-
+First get the env variables setup then proceed
 ### Docker
 To build and run the application using Docker:
 
